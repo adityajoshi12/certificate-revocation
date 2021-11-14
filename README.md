@@ -1,6 +1,6 @@
-# Certificate Revocation With Fabric CA
+# Certificate Revocation In Hyperledger Fabric Using Fabric CA
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/cjXJrlP2owc/0.jpg)](http://www.youtube.com/watch?v=cjXJrlP2owc "Video Tutorial")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/p7DdCqisNVA/0.jpg)](http://www.youtube.com/watch?v=p7DdCqisNVA "Video Tutorial")
 
 
 ### Spinning up the network
